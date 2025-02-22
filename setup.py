@@ -21,7 +21,7 @@ setup(
     name='End to End ML project',
     version='1.0',
     author='Anindya Banerjee',
-    author_email='anindya.banerjee@gmail.com',
+    author_email='anindya.banerje@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 
