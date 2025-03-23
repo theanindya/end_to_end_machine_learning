@@ -44,14 +44,6 @@ The project includes a series of Python scripts that guide you through the entir
 4. **Model Evaluation**
 5. **Model Deployment**
 
-Example commands to run the scripts:
 
-```bash
-python src/training/train_model.py
-python src/evaluation/evaluate_model.py
-python src/deployment/deploy_model.py
-```
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
