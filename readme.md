@@ -47,7 +47,7 @@ The project includes a series of Python scripts that guide you through the entir
 
 ## Deployment
 
-### Azure Deployment
+### 1. Azure Deployment
 
 The repository includes a GitHub Actions workflow for deploying the application to **Azure Web Apps**. The workflow file is located at:
 
@@ -72,7 +72,7 @@ To set up Azure deployment:
 
 ---
 
-### AWS Deployment
+### 2. AWS Deployment
 
 To deploy this application to **AWS Elastic Beanstalk**, follow these steps:
 
