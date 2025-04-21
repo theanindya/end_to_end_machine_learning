@@ -44,9 +44,7 @@ The project includes a series of Python scripts that guide you through the entir
 4. **Model Evaluation**
 5. **Model Deployment**
 
-Sure! Here's the **raw Markdown** version of the `README.md` section you can directly copy and paste into your file:
 
-```markdown
 ## Deployment
 
 ### Azure Deployment
