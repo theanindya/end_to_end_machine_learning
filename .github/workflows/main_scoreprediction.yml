@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'scorePrediction'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B4DAD2EA1D7141EBBB01E4BC091D594B }}
+          publish-profile: ${{ secrets. }}
