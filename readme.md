@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **ML Model Deployment for Student Performance Prediction using AWS & CI/CD** project! This repository contains comprehensive resources and code for building, training, and deploying machine learning models.
+Welcome to the **ML Model Deployment for Student Performance Prediction using AWS, Azure, and CI/CD** project! This repository contains comprehensive resources and code for building, training, and deploying machine learning models.
 
 ## Features
 
